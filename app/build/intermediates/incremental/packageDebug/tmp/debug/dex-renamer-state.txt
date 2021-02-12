@@ -1,0 +1,4 @@
+#Fri Feb 12 11:37:20 IST 2021
+base.0=C\:\\Users\\Yash Gupta\\AndroidStudioProjects\\Mynav\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
