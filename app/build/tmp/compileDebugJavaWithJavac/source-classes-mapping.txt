@@ -1,0 +1,20 @@
+com/example/mynav/BuildConfig.java
+ com.example.mynav.BuildConfig
+com/example/mynav/databinding/ActivityObjectDetectionBinding.java
+ com.example.mynav.databinding.ActivityObjectDetectionBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/mynav/DataBinderMapperImpl.java
+ com.example.mynav.DataBinderMapperImpl
+ com.example.mynav.DataBinderMapperImpl$InnerBrLookup
+ com.example.mynav.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/mynav/databinding/ActivityObjectDetectionBindingImpl.java
+ com.example.mynav.databinding.ActivityObjectDetectionBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/mynav/DataBindingTriggerClass.java
+ com.example.mynav.DataBindingTriggerClass
+com/example/mynav/BR.java
+ com.example.mynav.BR
