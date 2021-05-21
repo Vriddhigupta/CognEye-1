@@ -25,6 +25,16 @@
 ## Description
 The cogneye app opens up with a logo screen, which further moves towards a screen which reads out App features. User can either click on any of the feature or speak out the name of the feature. Eventually the feature will activate camera of the smartphone. Once the Phone's camera is moved around an object/Letter/Paragraph, the voice is enabled and it reads out the object/letter/paragraph aloud.
 Currently, the app is still in development mode, cogneye team is working efficiently to improve the quality of the app.
+> Code snippet for splash screen
+```bash
+val SPLASH_TIME_OUT = 4000.toLong()
+Executors.newSingleThreadExecutor().execute {
+       Thread.sleep(SPLASH_TIME_OUT)
+       startActivity(Intent(this, MainActivity::class.java))
+       finish()
+}
+```
+
 >Code Snippet for OCR feature.
 
 ```bash
