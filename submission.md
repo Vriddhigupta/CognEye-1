@@ -92,8 +92,8 @@ Tools and technologies that you learnt and used in the project.
 5. **Aishwarya Harkare:** "Collaborating with team CognEye was wonderful experience for me! In this project meant for people with low vision I , along with my colleague Purva Anjarlekar implemented the Optical Character Recognition(OCR) feature. We used Google Mobile vision API available online for this purpose and integrated it with the app. Also I contributed in making UI for the app. Co-ordinating with the team was a great experience and I  was able to dive into whole new world of ML and App development while working on this project." 
 6. **Purva Anjarlekar:** "I had just started learning ML when I joined this group project. It helped me a lot with implementation and understanding concepts. We specifically didn't work on developing a model but learning to work with APIs and integrating it with the app was very interesting to do. Thank you for this opportunity provided by SkillUp compelling me to study the subject."
 ## Future scope
->We will deploy the facial recognition model that is already implemented.
->Voice activation for opening the app and using it's feature can be also added to this app making it easy to use for visually impaired people.
+1. We will deploy the facial recognition model that is already implemented.
+2. Voice activation for opening the app and using it's feature can be also added to this app making it easy to use for visually impaired people.
 
 ## Screenshots
 
