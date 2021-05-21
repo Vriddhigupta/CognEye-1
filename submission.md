@@ -48,7 +48,7 @@ Tools and technologies that you learnt and used in the project.
 3. HTML/CSS
 4. Javascript
 5. Python
-6. Framework-1
+6. Android Studio
 7. Framework-2 (Add or remove as required)
 
 ## Applications
@@ -61,7 +61,7 @@ Tools and technologies that you learnt and used in the project.
 
 
 1. **Jaivanti Dhokey:** "Working with cogneye team was an amazing learning experience for me. Right from brainstorming various ideas and implementing them to deploying ML Models and entire website, Learning more about web development and ML field, has added a lot of wisdom to explore more deeply in this field."
-2. Member 2 name - Description
+2.  **Vriddhi Gupta:** - "It was a surreal experience for me. While working on this project I learnt implemenating ML models like facial recognition model. We couldn't use API for facial recognition feature since all were paid , hence I along with my partner Krishna implmented the entire facial recognition program from scratch but we could not add  this feature into our app because we still need to implement server client feature in order to use this model with the app. It was a great expereince while working on the UI with my UI team. I learnt the fact that as a part of a team we should always ask for help and always be ready ready to help."
 ## Future scope
 >Mention ways in which the project can be improved and built upon in the future.
 
