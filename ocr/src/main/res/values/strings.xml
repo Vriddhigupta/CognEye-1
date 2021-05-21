@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OCRText</string>
+    <string name="your_text_here">Your text here</string>
+</resources>
