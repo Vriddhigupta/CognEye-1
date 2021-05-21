@@ -41,6 +41,12 @@ Currently, the app is still in development mode, cogneye team is working efficie
                 final String stringText = stringBuilder.toString();
 ```
 
+>Code snippet from android manifest file.
+```bash
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"></uses-permission>
+```
+
 <!--Don't forget to replace the link here with **_your own Github repository_** link. -->
 
 ## Important Links
