@@ -67,7 +67,5 @@ Tools and technologies that you learnt and used in the project.
 
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-![alt text](https://drive.google.com/file/d/18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn/view?usp=sharing)
+![Screenshot alt text](https://github.com/SaminaAttari786/myappsample/blob/master/WhatsApp%20Image%202020-07-07%20at%2012.58.37%20(2).jpeg)
 
