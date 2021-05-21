@@ -68,4 +68,7 @@ Tools and technologies that you learnt and used in the project.
 ## Screenshots
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 ![Screenshot alt text](https://github.com/Vriddhigupta/CognEye-1/blob/main/WhatsApp%20Image%202021-05-21%20at%202.10.08%20PM%20(1).jpeg)
-
+![Screenshot alt text](https://github.com/Vriddhigupta/CognEye-1/blob/main/WhatsApp%20Image%202021-05-21%20at%202.10.08%20PM%20(2).jpeg)
+![Screenshot alt text](https://github.com/Vriddhigupta/CognEye-1/blob/main/WhatsApp%20Image%202021-05-21%20at%202.10.08%20PM%20(3).jpeg)
+![Screenshot alt text](https://github.com/Vriddhigupta/CognEye-1/blob/main/WhatsApp%20Image%202021-05-21%20at%202.10.08%20PM%20(4).jpeg)
+![Screenshot alt text](https://github.com/Vriddhigupta/CognEye-1/blob/main/WhatsApp%20Image%202021-05-21%20at%202.10.08%20PM.jpeg)
