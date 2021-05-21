@@ -25,10 +25,20 @@
 ## Description
 The cogneye app opens up with a logo screen, which further moves towards a screen which reads out App features. User can either click on any of the feature or speak out the name of the feature. Eventually the feature will activate camera of the smartphone. Once the Phone's camera is moved around an object/Letter/Paragraph, the voice is enabled and it reads out the object/letter/paragraph aloud.
 Currently, the app is still in development mode, cogneye team is working efficiently to improve the quality of the app.
-* Use bullet points for any feature descriptions you may want to add
+>Code Snippet for OCR feature.
 
 ```bash
-    Add appropriate code snippets here (4 spaces indent)
+       SparseArray<TextBlock> sparseArray = detections.getDetectedItems();
+                StringBuilder stringBuilder = new StringBuilder();
+
+                for (int i = 0; i<sparseArray.size(); i++){
+                    TextBlock textBlock = sparseArray.valueAt(i);
+                    if (textBlock != null && textBlock.getValue() !=null){
+                        stringBuilder.append(textBlock.getValue() + " ");
+                    }
+                }
+
+                final String stringText = stringBuilder.toString();
 ```
 
 <!--Don't forget to replace the link here with **_your own Github repository_** link. -->
