@@ -23,17 +23,17 @@
 * [Shreyansh Chordia](https://github.com/shreyanshchordia)
 
 ## Description
-Add your project description here. Your project description should cover how your project works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
-
+The cogneye app opens up with a logo screen, which further moves towards a screen which reads out App features. User can either click on any of the feature or speak out the name of the feature. Eventually the feature will activate camera of the smartphone. Once the Phone's camera is moved around an object/Letter/Paragraph, the voice is enabled and it reads out the object/letter/paragraph aloud.
+Currently, the app is still in development mode, cogneye team is working efficiently to improve the quality of the app.
 * Use bullet points for any feature descriptions you may want to add
 
 ```bash
     Add appropriate code snippets here (4 spaces indent)
 ```
 
-Don't forget to replace the link here with **_your own Github repository_** link.
+<!--Don't forget to replace the link here with **_your own Github repository_** link. -->
 
-Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
+## Important Links
 
 * GitHub repo link: [CognEye Repo](https://github.com/CognEye/CognEye)
 * Drive link: [Drive link here](https://drive.google.com/)
