@@ -28,17 +28,17 @@ Currently, the app is still in development mode, cogneye team is working efficie
 >Code Snippet for OCR feature.
 
 ```bash
-       SparseArray<TextBlock> sparseArray = detections.getDetectedItems();
-                StringBuilder stringBuilder = new StringBuilder();
+SparseArray<TextBlock> sparseArray = detections.getDetectedItems();
+StringBuilder stringBuilder = new StringBuilder();
 
-                for (int i = 0; i<sparseArray.size(); i++){
-                    TextBlock textBlock = sparseArray.valueAt(i);
-                    if (textBlock != null && textBlock.getValue() !=null){
-                        stringBuilder.append(textBlock.getValue() + " ");
+       for (int i = 0; i<sparseArray.size(); i++){
+              TextBlock textBlock = sparseArray.valueAt(i);
+               if (textBlock != null && textBlock.getValue() !=null){
+                     stringBuilder.append(textBlock.getValue() + " ");
                     }
                 }
 
-                final String stringText = stringBuilder.toString();
+final String stringText = stringBuilder.toString();
 ```
 
 >Code snippet from android manifest file.
