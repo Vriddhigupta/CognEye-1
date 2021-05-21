@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/font_bevan.ttf.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/font/bevan.ttf"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_splash_screen.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_activity_object_detection.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/activity_object_detection.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/font_bungee_inline.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/font/bungee_inline.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_app_bar_main.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/font_roboto_black.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/font/roboto_black.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_camera.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_ic_baseline_camera_alt_24.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_eye.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/eye.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/dell/CognEye/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_background.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_blur_gradient.png.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/blur_gradient.png"
+    },
+    {
+        "merged": "/home/dell/CognEye/app/build/intermediates/res/merged/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/home/dell/CognEye/app/src/main/res/drawable/side_nav_bar.xml"
+    }
+]
