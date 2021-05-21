@@ -23,20 +23,46 @@
 * [Shreyansh Chordia](https://github.com/shreyanshchordia)
 
 ## Description
-Add your project description here. Your project description should cover how your project works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
-
-* Use bullet points for any feature descriptions you may want to add
-
+The cogneye app opens up with a logo screen, which further moves towards a screen which reads out App features. User can either click on any of the feature or speak out the name of the feature. Eventually the feature will activate camera of the smartphone. Once the Phone's camera is moved around an object/Letter/Paragraph, the voice is enabled and it reads out the object/letter/paragraph aloud.
+Currently, the app is still in development mode, cogneye team is working efficiently to improve the quality of the app.
+> Code snippet for splash screen
 ```bash
-    Add appropriate code snippets here (4 spaces indent)
+val SPLASH_TIME_OUT = 4000.toLong()
+Executors.newSingleThreadExecutor().execute {
+       Thread.sleep(SPLASH_TIME_OUT)
+       startActivity(Intent(this, MainActivity::class.java))
+       finish()
+}
 ```
 
-Don't forget to replace the link here with **_your own Github repository_** link.
+>Code Snippet for OCR feature.
 
-Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
+```bash
+SparseArray<TextBlock> sparseArray = detections.getDetectedItems();
+StringBuilder stringBuilder = new StringBuilder();
+
+       for (int i = 0; i<sparseArray.size(); i++){
+              TextBlock textBlock = sparseArray.valueAt(i);
+               if (textBlock != null && textBlock.getValue() !=null){
+                     stringBuilder.append(textBlock.getValue() + " ");
+                    }
+                }
+
+final String stringText = stringBuilder.toString();
+```
+
+>Code snippet from android manifest file.
+```bash
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"></uses-permission>
+```
+
+<!--Don't forget to replace the link here with **_your own Github repository_** link. -->
+
+## Important Links
 
 * GitHub repo link: [CognEye Repo](https://github.com/CognEye/CognEye)
-* Drive link: [Drive link here](https://drive.google.com/)
+* Drive link: [CognEye drive link](https://drive.google.com/drive/folders/1pjNYFkQNOuKjL1RA7lDQqLeqY4qTpyS_?usp=sharing)
 * Website link: [CognEye Website](https://cogneye.github.io/)
 
 ## Technology stack
@@ -51,9 +77,9 @@ Tools and technologies that you learnt and used in the project.
 6. Android Studio
 
 ## Applications
->CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
->CognEye will activate camera and voice technologies in smartphones, to identify objects, letters, paragraph, etc around the user.
->It will also provides a inbuilt voice assitance to help the user with understanding the app features and its use.
+1. CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
+2. CognEye will activate camera and voice technologies in smartphones, to identify objects, letters, paragraph, etc around the user.
+3. It will also provides a inbuilt voice assitance to help the user with understanding the app features and its use.
 
 ## What team members learned from this project
 
@@ -66,8 +92,8 @@ Tools and technologies that you learnt and used in the project.
 5. **Aishwarya Harkare:** "Collaborating with team CognEye was wonderful experience for me! In this project meant for people with low vision I , along with my colleague Purva Anjarlekar implemented the Optical Character Recognition(OCR) feature. We used Google Mobile vision API available online for this purpose and integrated it with the app. Also I contributed in making UI for the app. Co-ordinating with the team was a great experience and I  was able to dive into whole new world of ML and App development while working on this project." 
 6. **Purva Anjarlekar:** "I had just started learning ML when I joined this group project. It helped me a lot with implementation and understanding concepts. We specifically didn't work on developing a model but learning to work with APIs and integrating it with the app was very interesting to do. Thank you for this opportunity provided by SkillUp compelling me to study the subject."
 ## Future scope
->We will deploy the facial recognition model that is already implemented.
->Voice activation for opening the app and using it's feature can be also added to this app making it easy to use for visually impaired people.
+1. We will deploy the facial recognition model that is already implemented.
+2. Voice activation for opening the app and using it's feature can be also added to this app making it easy to use for visually impaired people.
 
 ## Screenshots
 
