@@ -37,7 +37,7 @@ Along with this, add the link of the drive folder that contains the app APK/Scre
 
 * GitHub repo link: [CognEye Repo](https://github.com/CognEye/CognEye)
 * Drive link: [Drive link here](https://drive.google.com/)
-* Website link: [CognEye Website]( cogneye.github.io/ )
+* Website link: [CognEye Website](https://cogneye.github.io/)
 
 ## Technology stack
 
@@ -49,7 +49,6 @@ Tools and technologies that you learnt and used in the project.
 4. Javascript
 5. Python
 6. Android Studio
-7. Framework-2 (Add or remove as required)
 
 ## Applications
 >CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
