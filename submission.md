@@ -70,4 +70,4 @@ Add a few screenshots here to give the viewer a quick idea of what your project 
 
 You'll have to link the screenshots from your drive folder here.
 
-![Splash screen](https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn. "Splash Screen")
+![Splash screen](https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn.)
