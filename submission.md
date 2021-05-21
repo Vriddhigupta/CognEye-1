@@ -15,7 +15,7 @@
 * [Sanika Gadge](https://github.com/Sanikagadge15) 
 * [Vriddhi Gupta](https://github.com/Vriddhigupta)
 * [Krishna Ashar](https://github.com/Krishna26Ashar) 
-* [Chanchal_Agrawal](https://github.com/chanchal221b)
+* [Chanchal Agrawal](https://github.com/chanchal221b)
 * [Aishwarya Harkane](https://github.com/Aishwarya856)
 * [Purva Anjarlekar](https://github.com/Caddonix) 
 
@@ -52,7 +52,9 @@ Tools and technologies that you learnt and used in the project.
 7. Framework-2 (Add or remove as required)
 
 ## Applications
->How can your project do its part in solving a real-life problem? What are its possible applications? Decribe here.
+>CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
+>CognEye will activate camera and voice technologies in smartphones, to identify objects, letters, paragraph, etc around the user.
+>It will also provides a inbuilt voice assitance to help the user with understanding the app features and its use.
 
 ## What team members learned from this project
 
