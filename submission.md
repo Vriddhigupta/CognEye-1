@@ -35,27 +35,30 @@ Don't forget to replace the link here with **_your own Github repository_** link
 
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 
-* GitHub repo link: [Link to repository](https://github.com/your-repo-link)
+* GitHub repo link: [CognEye Repo](https://github.com/CognEye/CognEye)
 * Drive link: [Drive link here](https://drive.google.com/)
-* Website link: [Website link here](www.google.com)
+* Website link: [CognEye Website]( cogneye.github.io/ )
 
 ## Technology stack
 
 Tools and technologies that you learnt and used in the project.
 
-1. Language-1
-2. Language-2
-3. Framework-1
-4. Framework-2 (Add or remove as required)
+1. Java
+2. Kotlin
+3. HTML/CSS
+4. Javascript
+5. Python
+6. Framework-1
+7. Framework-2 (Add or remove as required)
 
 ## Applications
 >How can your project do its part in solving a real-life problem? What are its possible applications? Decribe here.
 
-## What did you learn from this project
+## What team members learned from this project
 
-Each team member and mentor can briefly describe what they learnt during Skill Up 2.0, how they applied it to their project and what challenges they faced.
 
-1. Member 1 name - Description
+
+1. **Jaivanti Dhokey:** "Working with cogneye team was an amazing learning experience for me. Right from brainstorming various ideas and implementing them to deploying ML Models and entire website, Learning more about web development and ML field, has added a lot of wisdom to explore more deeply in this field."
 2. Member 2 name - Description
 ## Future scope
 >Mention ways in which the project can be improved and built upon in the future.
