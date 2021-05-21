@@ -36,7 +36,7 @@ Currently, the app is still in development mode, cogneye team is working efficie
 ## Important Links
 
 * GitHub repo link: [CognEye Repo](https://github.com/CognEye/CognEye)
-* Drive link: [Drive link here](https://drive.google.com/)
+* Drive link: [CognEye drive link](https://drive.google.com/drive/folders/1pjNYFkQNOuKjL1RA7lDQqLeqY4qTpyS_?usp=sharing)
 * Website link: [CognEye Website](https://cogneye.github.io/)
 
 ## Technology stack
