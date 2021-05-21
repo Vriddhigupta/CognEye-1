@@ -77,9 +77,9 @@ Tools and technologies that you learnt and used in the project.
 6. Android Studio
 
 ## Applications
->CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
->CognEye will activate camera and voice technologies in smartphones, to identify objects, letters, paragraph, etc around the user.
->It will also provides a inbuilt voice assitance to help the user with understanding the app features and its use.
+1. CognEye will act as bridge for visually impaired people to see the world through the features like object detection, optical character recognition, facial recognition, etc.
+2. CognEye will activate camera and voice technologies in smartphones, to identify objects, letters, paragraph, etc around the user.
+3. It will also provides a inbuilt voice assitance to help the user with understanding the app features and its use.
 
 ## What team members learned from this project
 
