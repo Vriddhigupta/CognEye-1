@@ -1,0 +1,8 @@
+com/example/ocrtext/BuildConfig.java
+ com.example.ocrtext.BuildConfig
+com/example/ocrtext/OCR.java
+ com.example.ocrtext.OCR
+ com.example.ocrtext.OCR$1
+ com.example.ocrtext.OCR$2
+ com.example.ocrtext.OCR$3
+ com.example.ocrtext.OCR$3$1
