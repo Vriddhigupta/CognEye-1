@@ -69,5 +69,5 @@ Tools and technologies that you learnt and used in the project.
 Add a few screenshots here to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 
 You'll have to link the screenshots from your drive folder here.
-<a href="https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn"><img src="https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn" style="width: 200px; max-width: 100%; height: 250px" title="Splash Screen" />
+<a href="https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn"><img src="https://drive.google.com/uc?export=view&id=18aTyDYCg2u4mdBSvAawLj_QqlcWukgvn" style="width: 200px; height: 250px" title="Splash Screen" />
 
