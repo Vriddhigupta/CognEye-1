@@ -1,0 +1,3 @@
+x-special/nautilus-clipboard
+copy
+file:///home/jaivanti/CognEye-main/ocr/build/intermediates/external_file_lib_dex_archives

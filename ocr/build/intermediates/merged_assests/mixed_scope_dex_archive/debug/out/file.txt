@@ -1,0 +1,3 @@
+x-special/nautilus-clipboard
+copy
+file:///home/jaivanti/CognEye-main/ocr/build/intermediates/merged_assets/mixed_scope_dex_archive

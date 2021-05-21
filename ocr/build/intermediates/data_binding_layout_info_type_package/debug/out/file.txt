@@ -1,0 +1,3 @@
+x-special/nautilus-clipboard
+copy
+file:///home/jaivanti/CognEye-main/ocr/build/intermediates/data_binding_layout_info_type_package
